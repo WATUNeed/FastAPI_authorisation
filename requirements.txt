@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+asyncpg
+alembic
+sqlalchemy
+psycopg2-binary
+python-jose
+redis
+pydantic[email]
+passlib
+python-multipart
+slowapi
+starlette
